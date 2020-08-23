@@ -13,16 +13,3 @@
 
 MIT
 
-### Citation
-If you find this useful , please cite:
-
-      @software{yashaswi_pathak_2020_3996631,
-              author       = {Yashaswi Pathak},
-              title        = {mol\_GPT v0.1-alpha},
-              month        = aug,
-              year         = 2020,
-              publisher    = {Zenodo},
-              version      = {v0.1-alpha},
-              doi          = {10.5281/zenodo.3996631},
-              url          = {https://doi.org/10.5281/zenodo.3996631}
-      }
